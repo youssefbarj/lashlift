@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![lashlift](https://github.com/youssefbarj/lashlift/raw/main/screenshot.png)
+![lashlift](https://raw.githubusercontent.com/youssefbarj/lashlift/main/screenshot.png)
 
 ## What this slide does
 
