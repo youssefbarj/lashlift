@@ -1,18 +1,21 @@
-# Contre-indications Lash Lift — Combinaison LASH+BROW
+# lashlift
 
-**Course:** Combinaison LASH+BROW  
-**Slide:** 3  
-**Live URL:** https://lashlift.edtechiecorp.com  
-**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages  
+**Course:** Not currently embedded in E-Lumy's Coassemble
+**Live URL:** https://lashlift-mu.vercel.app
+**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages
 
-## What this slide does
-
-Displays the contraindications for the lash lift component of the combined lash and brow course. Covers conditions that prevent performing a lash lift — including eye infections, certain medications, recent eye procedures, and contact lens use — in the context of a combined treatment session. Practitioners working with both lash lift and brow lamination need to assess contraindications for each procedure independently.
+> Not currently embedded in any E-Lumy course (was Combinaison LASH+BROW slide 3 in original workspace).
 
 ## Screenshot
 
-![lashlift](./screenshot.png)
+![lashlift](https://github.com/youssefbarj/lashlift/raw/main/screenshot.png)
+
+## What this slide does
+
+This is an interactive slide embedded as an iframe inside Coassemble. See the screenshot above for a visual preview of the content.
 
 ## Usage
 
-This slide is embedded as an iframe inside Coassemble at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+This slide is served via GitHub Pages at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+
+> **For E-Lumy's tech team:** After migrating this repo to your own GitHub account, re-enable GitHub Pages in Settings → Pages → Source: GitHub Actions. Then update the embed URL in Coassemble to your new deployment URL.
